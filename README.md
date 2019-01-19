@@ -5,14 +5,14 @@ YouTube Link: https://www.youtube.com/watch?v=fQ6iEZ0bkEs
 
 Hardware connctions are as follows:
 
-  POT right    - Arduino +5V
+POT right    - Arduino +5V
 
-  POT middle   - Arduino A2
+POT middle   - Arduino A2
 
-  POT left     - Arduino GND
+POT left     - Arduino GND
 
-  ESC data wire (white/yellow) - Arduino pin 3 (PWM)
+ESC data wire (white/yellow) - Arduino pin 3 (PWM)
 
-  ESC GND wire (black)         - Arduino GND
+ESC GND wire (black)         - Arduino GND
 
-  ESC power wire (red)         - DO NOT CONNECT
+ESC power wire (red)         - DO NOT CONNECT
