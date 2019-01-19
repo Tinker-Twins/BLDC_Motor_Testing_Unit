@@ -15,4 +15,5 @@ ESC GND wire (black)         - Arduino GND
 
 ESC power wire (red)         - DO NOT CONNECT
 
+
 YouTube Link: https://youtu.be/fQ6iEZ0bkEs
